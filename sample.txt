@@ -1,2 +1,3 @@
 連猴子都懂git
 連猴子都懂git怎麼用
+這是practice2
