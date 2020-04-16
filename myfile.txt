@@ -2,3 +2,4 @@
 add 修改加入書籤
 commit 紀錄索引的狀態
 pull 取得遠端數據庫內容
+issue4
